@@ -1,0 +1,9 @@
+echo "# Tabela-imposto-de-renda-" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/silaspaulodacosta/Tabela-imposto-de-renda-.git
+git push -u origin maingit remote add origin https://github.com/silaspaulodacosta/Tabela-imposto-de-renda-.git
+git branch -M main
+git push -u origin main
