@@ -22,7 +22,7 @@ Criar um agregador de dados no Excel, com:
 - ✅ Organização de notas e extratos mensais  
 - ✅ Validação automática com tabelas auxiliares (ex: nomes de bancos)  
 - ✅ Interface com menus explicativos e seções separadas  
-- ✅ Links úteis para sites da Receita Federal (se desejar incluir)  
+
 
 ---
 
