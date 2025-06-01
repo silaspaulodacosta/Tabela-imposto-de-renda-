@@ -28,11 +28,10 @@ Criar um agregador de dados no Excel, com:
 
 ## 💻 Tecnologias Utilizadas
 
-- Microsoft Excel  
-- Fórmulas e funções (SE, PROCV, SOMASE, VALOR, entre outras)  
-- Validação de dados  
-- Listas auxiliares para preenchimento automático  
-- IA Copilot (caso aplicável)  
+- Microsoft Excel
+- Fórmulas e funções (SE, PROCV, SOMASE, VALIDAÇÃO DE DADOS, entre outras)
+- Recursos nativos do Excel para menus e navegação
+
 
 ---
 
