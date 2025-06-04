@@ -76,4 +76,4 @@ Durante o projeto, pude aplicar conceitos como:
 ## 📬 Contato
 
 Desenvolvido por **Silas Paulo da Costa**  
-[Seu LinkedIn ou GitHub aqui se quiser divulgar]  
+[silaspaulocosttas@gmail.com]  
