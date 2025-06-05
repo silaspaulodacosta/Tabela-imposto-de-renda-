@@ -28,9 +28,8 @@ Criar um agregador de dados no Excel, com:
 
 ## 💻 Tecnologias Utilizadas
 
-- Microsoft Excel
-- Fórmulas e funções (SE, PROCV, SOMASE, VALIDAÇÃO DE DADOS, entre outras)
-- Recursos nativos do Excel para menus e navegação
+- Apenas Microsoft Excel
+- 
 
 
 ---
@@ -44,13 +43,7 @@ Criar um agregador de dados no Excel, com:
 
 ---
 
-## 📷 Imagens do Projeto
-
-Você pode adicionar imagens demonstrando o uso da ferramenta:
-
-- `images/menu-navegacao.png`  
-- `images/validacoes.png`  
-- `images/dashboard.png`  
+ 
 
 ---
 
