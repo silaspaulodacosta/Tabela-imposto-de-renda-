@@ -66,7 +66,8 @@ Durante o projeto, pude aplicar conceitos como:
 
 ---
 
-## 📬 Contato
+## 👨‍💻 Autor
 
-Desenvolvido por **Silas Paulo da Costa**  
+Silas Paulo da Costa  
 [silaspaulocosttas@gmail.com]  
+[https://github.com/silaspaulodacosta]
