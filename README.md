@@ -28,7 +28,7 @@ Criar um agregador de dados no Excel, com:
 
 ## 💻 Tecnologias Utilizadas
 
-- Apenas Microsoft Excel
+- Microsoft Excel
 - 
 
 
@@ -39,7 +39,7 @@ Criar um agregador de dados no Excel, com:
 - **TITULAR** – Coleta dados pessoais do contribuinte.  
 - **INFORMES** – Área para registrar rendimentos bancários.  
 - **NOTAS** – Campo para anotar valores mensais, como holerites.  
-- **TABELAS** – Dados auxiliares, como lista de bancos, para validação.  
+  
 
 ---
 
