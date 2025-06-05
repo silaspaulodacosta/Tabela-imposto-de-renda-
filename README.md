@@ -49,7 +49,7 @@ Criar um agregador de dados no Excel, com:
 
 ## 🚀 Como usar
 
-1. Baixe o arquivo Excel em [`arquivos/imposto-de-renda.xlsx`](https://github.com/silaspaulodacosta/Tabela-imposto-de-renda-/raw/refs/heads/main/Tabela%20imposto%20de%20renda.xlsx)  
+1. Baixe o arquivo Excel em [`arquivos/imposto-de-renda.xlsx`](https://github.com/silaspaulodacosta/Tabela-imposto-de-renda-/raw/refs/heads/main/Arquivos/Tabela%20imposto%20de%20renda.xlsx)  
 2. Abra no Excel (preferencialmente na versão 365 ou mais recente)  
 3. Navegue pelas abas e preencha os dados conforme as instruções    
 
