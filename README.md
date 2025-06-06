@@ -21,15 +21,14 @@ Criar um agregador de dados no Excel, com:
 - ✅ Registro de informes de rendimentos bancários  
 - ✅ Organização de notas e extratos mensais  
 - ✅ Validação automática com tabelas auxiliares (ex: nomes de bancos)  
-- ✅ Interface com menus explicativos e seções separadas  
-
+- ✅ Interface com menus explicativos e seções separadas   
 
 ---
 
 ## 💻 Tecnologias Utilizadas
 
-- Microsoft Excel
-- 
+-  Microsoft Excel
+-    
 
 
 ---
@@ -39,11 +38,17 @@ Criar um agregador de dados no Excel, com:
 - **TITULAR** – Coleta dados pessoais do contribuinte.  
 - **INFORMES** – Área para registrar rendimentos bancários.  
 - **NOTAS** – Campo para anotar valores mensais, como holerites.  
-  
+ 
 
 ---
 
- 
+## 📷 Imagens do Projeto
+
+Veja abaixo algumas capturas de tela da ferramenta:
+
+![menu titular](https://github.com/silaspaulodacosta/Tabela-imposto-de-renda-/blob/main/Imagens/menu-titular.jpg)
+![menu informe](https://github.com/silaspaulodacosta/Tabela-imposto-de-renda-/blob/main/Imagens/menu-informe.jpg)
+![menu notas](https://github.com/silaspaulodacosta/Tabela-imposto-de-renda-/blob/main/Imagens/menu-nota.jpg)  
 
 ---
 
@@ -51,7 +56,7 @@ Criar um agregador de dados no Excel, com:
 
 1. Baixe o arquivo Excel em [`arquivos/imposto-de-renda.xlsx`](https://github.com/silaspaulodacosta/Tabela-imposto-de-renda-/raw/refs/heads/main/Arquivos/Tabela%20imposto%20de%20renda.xlsx)  
 2. Abra no Excel (preferencialmente na versão 365 ou mais recente)  
-3. Navegue pelas abas e preencha os dados conforme as instruções    
+3. Navegue pelas abas e preencha os dados conforme as instruções  
 
 ---
 
