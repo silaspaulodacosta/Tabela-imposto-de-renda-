@@ -42,13 +42,21 @@ Criar um agregador de dados no Excel, com:
 
 ---
 
-## 📷 Imagens do Projeto
+## 📷 Capturas de Tela 
 
 Veja abaixo algumas capturas de tela da ferramenta:
 
-![menu titular](https://github.com/silaspaulodacosta/Tabela-imposto-de-renda-/blob/main/Imagens/menu-titular.jpg)
-![menu informe](https://github.com/silaspaulodacosta/Tabela-imposto-de-renda-/blob/main/Imagens/menu-informe.jpg)
-![menu notas](https://github.com/silaspaulodacosta/Tabela-imposto-de-renda-/blob/main/Imagens/menu-nota.jpg)  
+
+
+### 1. Dados do Titular
+![Tela Titular](https://github.com/silaspaulodacosta/Tabela-imposto-de-renda-/blob/main/Imagens/tela%20-%20titular%20.jpg)
+
+### 2. Informes de Rendimentos Bancários
+![Tela Informes](https://github.com/silaspaulodacosta/Tabela-imposto-de-renda-/blob/main/Imagens/tela%20-%20informes%20.jpg)
+
+### 3. Notas Bancárias ou Holerites
+![Tela Notas](https://github.com/silaspaulodacosta/Tabela-imposto-de-renda-/blob/main/Imagens/tela%20-%20notas%20.jpg)
+  
 
 ---
 
