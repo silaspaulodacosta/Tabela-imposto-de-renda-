@@ -82,5 +82,4 @@ Durante o projeto, pude aplicar conceitos como:
 ## 👨‍💻 Autor
 
 Silas Paulo da Costa  
-[silaspaulocosttas@gmail.com]  
-[https://github.com/silaspaulodacosta]
+📩 silaspaulocosttas@gmail.com
