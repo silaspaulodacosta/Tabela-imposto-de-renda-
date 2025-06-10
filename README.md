@@ -4,7 +4,7 @@ Este projeto foi desenvolvido como desafio do curso **"Excel com Inteligência A
 
 ---
 
-## 📌 Objetivo
+## 🎯 Objetivo
 
 Criar um agregador de dados no Excel, com:
 
@@ -15,7 +15,7 @@ Criar um agregador de dados no Excel, com:
 
 ---
 
-## 🛠️ Funcionalidades
+## 📌 Funcionalidades
 
 - ✅ Cadastro de dados do titular (CPF, nome, etc.)  
 - ✅ Registro de informes de rendimentos bancários  
